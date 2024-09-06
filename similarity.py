@@ -1,7 +1,15 @@
 import json
 import numpy as np
+import warnings
 from transformers import AutoTokenizer, AutoModel
 from sentence_transformers import SentenceTransformer, util
+
+# Suppress FutureWarnings related to clean_up_tokenization_spaces
+warnings.filterwarnings(
+    "ignore",
+    category=FutureWarning,
+    message="`clean_up_tokenization_spaces` was not set."
+)
 
 # Load LaBSE model and tokenizer
 model_name = 'bert-base-multilingual-cased'
