@@ -14,3 +14,9 @@ def generate_email(name):
 
     return email
 
+
+# Function to find names with special characters
+def find_names_with_special_characters(names_list):
+    special_names = [name for name in names_list if re.search(r"[^a-zA-Z ]", name)]
+    return special_names
+
