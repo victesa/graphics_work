@@ -3,6 +3,7 @@ import logging
 import os
 from functions import generate_email, find_names_with_special_characters
 from similarity import compute_similarity_matrix, find_similar_names, save_results_to_json
+from output_handler import merge_data, shuffle_and_save_outputs
 
 # Set up logging
 logging.basicConfig(filename='logs/computations.log', level=logging.INFO, format='%(asctime)s - %(message)s')
@@ -55,9 +56,13 @@ def main():
             'female_similarities': female_similarities
         }, 'output/similarity_results.json')
 
-        # Save the updated data to a new file
-        df.to_csv('output/students_with_emails.csv', index=False)
-        logging.info("Updated dataset saved successfully.")
+        # Merge, shuffle, and save data in various formats
+        merge_data(df)
+        shuffle_and_save_outputs(df)
+
+        logging.info("All operations completed successfully.")
+
+
 
     except Exception as e:
         logging.error(f"An error occurred: {e}")
