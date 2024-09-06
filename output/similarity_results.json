@@ -1,0 +1,661 @@
+{
+    "male_similarities": [
+        {
+            "name1": "Ang'edu, Jude Ocomil",
+            "name2": "Kiarie, Samuel Ndungu",
+            "similarity": 0.5449488162994385
+        },
+        {
+            "name1": "Ang'edu, Jude Ocomil",
+            "name2": "Mohamed, Ally Mahamud",
+            "similarity": 0.5282204151153564
+        },
+        {
+            "name1": "Atenya, Anthony Magunga Ikobwa",
+            "name2": "Ng'ang'a, Ian Mutuge",
+            "similarity": 0.5687912702560425
+        },
+        {
+            "name1": "Budembeshe, Moses Kasuni",
+            "name2": "Githinji, Don Moses Thigiti",
+            "similarity": 0.5873533487319946
+        },
+        {
+            "name1": "Epetet, Keith Lokwei",
+            "name2": "Kimutai, Peter Kibet",
+            "similarity": 0.6332594156265259
+        },
+        {
+            "name1": "Epetet, Keith Lokwei",
+            "name2": "Kithae, Eric Muriithi",
+            "similarity": 0.5717813968658447
+        },
+        {
+            "name1": "Epetet, Keith Lokwei",
+            "name2": "Korir, Kevin Kimutai",
+            "similarity": 0.544366717338562
+        },
+        {
+            "name1": "Ger, David Otieno",
+            "name2": "Morekwa, David Nyamongo",
+            "similarity": 0.574472188949585
+        },
+        {
+            "name1": "Ger, David Otieno",
+            "name2": "Ochanda, Steven Joel Jona",
+            "similarity": 0.5535747408866882
+        },
+        {
+            "name1": "Githinji, Don Moses Thigiti",
+            "name2": "Morekwa, David Nyamongo",
+            "similarity": 0.5206540822982788
+        },
+        {
+            "name1": "Githinji, Don Moses Thigiti",
+            "name2": "Muroki, Mark Gichuhi",
+            "similarity": 0.5250089764595032
+        },
+        {
+            "name1": "Githinji, Don Moses Thigiti",
+            "name2": "Mwanda, George Josiah",
+            "similarity": 0.5060229897499084
+        },
+        {
+            "name1": "Githinji, Don Moses Thigiti",
+            "name2": "Ng'ang'a, Ian Mutuge",
+            "similarity": 0.5231738686561584
+        },
+        {
+            "name1": "Haji, Ashir Ali",
+            "name2": "Patel, Jay Hirji",
+            "similarity": 0.575820803642273
+        },
+        {
+            "name1": "Kiarie, Samuel Ndungu",
+            "name2": "Nabaala, Andrew Kasaine",
+            "similarity": 0.5027701258659363
+        },
+        {
+            "name1": "Kiarie, Samuel Ndungu",
+            "name2": "Ngigi, Michael Macharia",
+            "similarity": 0.5729690790176392
+        },
+        {
+            "name1": "Kiarie, Samuel Ndungu",
+            "name2": "Nugi, Andrew Kiarie",
+            "similarity": 0.6280391216278076
+        },
+        {
+            "name1": "Kiarie, Samuel Ndungu",
+            "name2": "Ombongi, Caleb Magare",
+            "similarity": 0.522290825843811
+        },
+        {
+            "name1": "Kiarie, Samuel Ndungu",
+            "name2": "Wanjao, Louis Mbugua",
+            "similarity": 0.5116276144981384
+        },
+        {
+            "name1": "Kimutai, Peter Kibet",
+            "name2": "Kinyua, Victor Mfana",
+            "similarity": 0.5859375
+        },
+        {
+            "name1": "Kimutai, Peter Kibet",
+            "name2": "Kirema, Ian Muteithia",
+            "similarity": 0.5556762218475342
+        },
+        {
+            "name1": "Kimutai, Peter Kibet",
+            "name2": "Kithae, Eric Muriithi",
+            "similarity": 0.5476917624473572
+        },
+        {
+            "name1": "Kimutai, Peter Kibet",
+            "name2": "Korir, Kevin Kimutai",
+            "similarity": 0.6874868869781494
+        },
+        {
+            "name1": "Kimutai, Peter Kibet",
+            "name2": "Mutunga, Eric Kiamba",
+            "similarity": 0.5083197951316833
+        },
+        {
+            "name1": "Kinyua, Victor Mfana",
+            "name2": "Kirema, Ian Muteithia",
+            "similarity": 0.55706387758255
+        },
+        {
+            "name1": "Kinyua, Victor Mfana",
+            "name2": "Kithae, Eric Muriithi",
+            "similarity": 0.5049209594726562
+        },
+        {
+            "name1": "Kinyua, Victor Mfana",
+            "name2": "Korir, Kevin Kimutai",
+            "similarity": 0.6145309209823608
+        },
+        {
+            "name1": "Kinyua, Victor Mfana",
+            "name2": "Morekwa, David Nyamongo",
+            "similarity": 0.5915595889091492
+        },
+        {
+            "name1": "Kinyua, Victor Mfana",
+            "name2": "Muhia, Victor Mwaura",
+            "similarity": 0.8750097751617432
+        },
+        {
+            "name1": "Kinyua, Victor Mfana",
+            "name2": "Mutunga, Eric Kiamba",
+            "similarity": 0.5796436071395874
+        },
+        {
+            "name1": "Kinyua, Victor Mfana",
+            "name2": "Ng'ang'a, Ian Mutuge",
+            "similarity": 0.5054713487625122
+        },
+        {
+            "name1": "Kinyua, Victor Mfana",
+            "name2": "Ngigi, Michael Macharia",
+            "similarity": 0.5737352967262268
+        },
+        {
+            "name1": "Kinyua, Victor Mfana",
+            "name2": "Wanjao, Louis Mbugua",
+            "similarity": 0.6065158843994141
+        },
+        {
+            "name1": "Kinyua, Victor Mfana",
+            "name2": "Waweru, Trevor Kariuki",
+            "similarity": 0.5570857524871826
+        },
+        {
+            "name1": "Kirema, Ian Muteithia",
+            "name2": "Kithae, Eric Muriithi",
+            "similarity": 0.6566369533538818
+        },
+        {
+            "name1": "Kirema, Ian Muteithia",
+            "name2": "Korir, Kevin Kimutai",
+            "similarity": 0.5452014207839966
+        },
+        {
+            "name1": "Kirema, Ian Muteithia",
+            "name2": "Muhia, Victor Mwaura",
+            "similarity": 0.5183736681938171
+        },
+        {
+            "name1": "Kirema, Ian Muteithia",
+            "name2": "Mutunga, Eric Kiamba",
+            "similarity": 0.5994755029678345
+        },
+        {
+            "name1": "Kirema, Ian Muteithia",
+            "name2": "Ng'ang'a, Ian Mutuge",
+            "similarity": 0.6979172825813293
+        },
+        {
+            "name1": "Kirema, Ian Muteithia",
+            "name2": "Ngigi, Michael Macharia",
+            "similarity": 0.5381942391395569
+        },
+        {
+            "name1": "Kithae, Eric Muriithi",
+            "name2": "Korir, Kevin Kimutai",
+            "similarity": 0.5766763687133789
+        },
+        {
+            "name1": "Kithae, Eric Muriithi",
+            "name2": "Muhia, Victor Mwaura",
+            "similarity": 0.5380819439888
+        },
+        {
+            "name1": "Kithae, Eric Muriithi",
+            "name2": "Muroki, Mark Gichuhi",
+            "similarity": 0.6301780939102173
+        },
+        {
+            "name1": "Kithae, Eric Muriithi",
+            "name2": "Mutunga, Eric Kiamba",
+            "similarity": 0.7022981643676758
+        },
+        {
+            "name1": "Kithae, Eric Muriithi",
+            "name2": "Ngigi, Michael Macharia",
+            "similarity": 0.5376561284065247
+        },
+        {
+            "name1": "Kithae, Eric Muriithi",
+            "name2": "Nugi, Andrew Kiarie",
+            "similarity": 0.5623456239700317
+        },
+        {
+            "name1": "Korir, Kevin Kimutai",
+            "name2": "Maritim, Kelvin Kipngeno",
+            "similarity": 0.5472460389137268
+        },
+        {
+            "name1": "Korir, Kevin Kimutai",
+            "name2": "Mugambi, Kelvin Karani",
+            "similarity": 0.691935658454895
+        },
+        {
+            "name1": "Korir, Kevin Kimutai",
+            "name2": "Mutunga, Eric Kiamba",
+            "similarity": 0.5077694654464722
+        },
+        {
+            "name1": "Korir, Kevin Kimutai",
+            "name2": "Nugi, Andrew Kiarie",
+            "similarity": 0.5140503644943237
+        },
+        {
+            "name1": "Korir, Kevin Kimutai",
+            "name2": "Waweru, Trevor Kariuki",
+            "similarity": 0.5573333501815796
+        },
+        {
+            "name1": "Kwoba, Alex Wafula",
+            "name2": "Mutunga, Eric Kiamba",
+            "similarity": 0.5450076460838318
+        },
+        {
+            "name1": "Kwoba, Alex Wafula",
+            "name2": "Ngeno, Alvin Kipkurui",
+            "similarity": 0.5262436866760254
+        },
+        {
+            "name1": "Maritim, Kelvin Kipngeno",
+            "name2": "Mugambi, Kelvin Karani",
+            "similarity": 0.7299484014511108
+        },
+        {
+            "name1": "Masaka, Zivai Takadiwa David",
+            "name2": "Morekwa, David Nyamongo",
+            "similarity": 0.676781952381134
+        },
+        {
+            "name1": "Morekwa, David Nyamongo",
+            "name2": "Muhia, Victor Mwaura",
+            "similarity": 0.6370838284492493
+        },
+        {
+            "name1": "Morekwa, David Nyamongo",
+            "name2": "Muroki, Mark Gichuhi",
+            "similarity": 0.5751491785049438
+        },
+        {
+            "name1": "Morekwa, David Nyamongo",
+            "name2": "Mwanda, George Josiah",
+            "similarity": 0.5145044326782227
+        },
+        {
+            "name1": "Morekwa, David Nyamongo",
+            "name2": "Ng'ang'a, Ian Mutuge",
+            "similarity": 0.5187601447105408
+        },
+        {
+            "name1": "Morekwa, David Nyamongo",
+            "name2": "Ngigi, Michael Macharia",
+            "similarity": 0.5719598531723022
+        },
+        {
+            "name1": "Morekwa, David Nyamongo",
+            "name2": "Wanjao, Louis Mbugua",
+            "similarity": 0.5536646842956543
+        },
+        {
+            "name1": "Morekwa, David Nyamongo",
+            "name2": "Waweru, Trevor Kariuki",
+            "similarity": 0.5577690601348877
+        },
+        {
+            "name1": "Mugambi, Kelvin Karani",
+            "name2": "Ngeno, Alvin Kipkurui",
+            "similarity": 0.569520115852356
+        },
+        {
+            "name1": "Mugambi, Kelvin Karani",
+            "name2": "Ombongi, Caleb Magare",
+            "similarity": 0.6060279607772827
+        },
+        {
+            "name1": "Mugambi, Kelvin Karani",
+            "name2": "Waweru, Trevor Kariuki",
+            "similarity": 0.5191054940223694
+        },
+        {
+            "name1": "Muhia, Victor Mwaura",
+            "name2": "Muroki, Mark Gichuhi",
+            "similarity": 0.5421395897865295
+        },
+        {
+            "name1": "Muhia, Victor Mwaura",
+            "name2": "Mutunga, Eric Kiamba",
+            "similarity": 0.5389238595962524
+        },
+        {
+            "name1": "Muhia, Victor Mwaura",
+            "name2": "Ngigi, Michael Macharia",
+            "similarity": 0.6507753133773804
+        },
+        {
+            "name1": "Muhia, Victor Mwaura",
+            "name2": "Wanjao, Louis Mbugua",
+            "similarity": 0.5883255004882812
+        },
+        {
+            "name1": "Muhia, Victor Mwaura",
+            "name2": "Waweru, Trevor Kariuki",
+            "similarity": 0.596429705619812
+        },
+        {
+            "name1": "Muroki, Mark Gichuhi",
+            "name2": "Mutunga, Eric Kiamba",
+            "similarity": 0.5132434964179993
+        },
+        {
+            "name1": "Muroki, Mark Gichuhi",
+            "name2": "Ng'ang'a, Ian Mutuge",
+            "similarity": 0.5092851519584656
+        },
+        {
+            "name1": "Muroki, Mark Gichuhi",
+            "name2": "Ngigi, Michael Macharia",
+            "similarity": 0.6420192122459412
+        },
+        {
+            "name1": "Mutua, Franklin Karanja",
+            "name2": "Ombeni, Mwenzangu Faraja",
+            "similarity": 0.5089468955993652
+        },
+        {
+            "name1": "Mutunga, Eric Kiamba",
+            "name2": "Ng'ang'a, Ian Mutuge",
+            "similarity": 0.5340709686279297
+        },
+        {
+            "name1": "Mutunga, Eric Kiamba",
+            "name2": "Ngigi, Michael Macharia",
+            "similarity": 0.5410667657852173
+        },
+        {
+            "name1": "Mwanda, George Josiah",
+            "name2": "Ng'ang'a, Ian Mutuge",
+            "similarity": 0.5355715751647949
+        },
+        {
+            "name1": "Mwanda, George Josiah",
+            "name2": "Ngigi, Michael Macharia",
+            "similarity": 0.5158496499061584
+        },
+        {
+            "name1": "Mwanda, George Josiah",
+            "name2": "Ochanda, Steven Joel Jona",
+            "similarity": 0.5638798475265503
+        },
+        {
+            "name1": "Nabaala, Andrew Kasaine",
+            "name2": "Nugi, Andrew Kiarie",
+            "similarity": 0.678496778011322
+        },
+        {
+            "name1": "Ng'ang'a, Ian Mutuge",
+            "name2": "Ngigi, Michael Macharia",
+            "similarity": 0.6339181065559387
+        },
+        {
+            "name1": "Ng'ang'a, Ian Mutuge",
+            "name2": "Nugi, Andrew Kiarie",
+            "similarity": 0.5411864519119263
+        },
+        {
+            "name1": "Ng'ang'a, Ian Mutuge",
+            "name2": "Wanjao, Louis Mbugua",
+            "similarity": 0.5484593510627747
+        },
+        {
+            "name1": "Ngigi, Michael Macharia",
+            "name2": "Nugi, Andrew Kiarie",
+            "similarity": 0.5702229142189026
+        },
+        {
+            "name1": "Nugi, Andrew Kiarie",
+            "name2": "Waweru, Trevor Kariuki",
+            "similarity": 0.5629591345787048
+        },
+        {
+            "name1": "Tum, Bramwel Kipchirchir",
+            "name2": "Waweru, Trevor Kariuki",
+            "similarity": 0.5176904201507568
+        }
+    ],
+    "female_similarities": [
+        {
+            "name1": "Akong'o, Shanelle Hilda Anyango",
+            "name2": "Kihara, Shannon Kendi",
+            "similarity": 0.5859106779098511
+        },
+        {
+            "name1": "Arunga, Kyla Neema",
+            "name2": "Karanu, Neema Muthoni",
+            "similarity": 0.699715256690979
+        },
+        {
+            "name1": "Arunga, Kyla Neema",
+            "name2": "Muli, Grace Kanini",
+            "similarity": 0.5833765268325806
+        },
+        {
+            "name1": "Arunga, Kyla Neema",
+            "name2": "Mutunga, Patience Kamanthe",
+            "similarity": 0.5031428337097168
+        },
+        {
+            "name1": "Arunga, Kyla Neema",
+            "name2": "Nyambura, Erica",
+            "similarity": 0.5756779313087463
+        },
+        {
+            "name1": "Kamau, Ann Mumbi",
+            "name2": "Karanu, Neema Muthoni",
+            "similarity": 0.5520530343055725
+        },
+        {
+            "name1": "Kamau, Ann Mumbi",
+            "name2": "Mutaki, Ruby Mbete",
+            "similarity": 0.5809005498886108
+        },
+        {
+            "name1": "Kamau, Ann Mumbi",
+            "name2": "Mutunga, Patience Kamanthe",
+            "similarity": 0.5309082269668579
+        },
+        {
+            "name1": "Kamau, Ann Mumbi",
+            "name2": "Ndambiri, Yvonne Nyambura",
+            "similarity": 0.5233135223388672
+        },
+        {
+            "name1": "Kangethe, Sharon Wanjiru",
+            "name2": "Karanu, Neema Muthoni",
+            "similarity": 0.5568437576293945
+        },
+        {
+            "name1": "Kangethe, Sharon Wanjiru",
+            "name2": "Kihara, Shannon Kendi",
+            "similarity": 0.6831161975860596
+        },
+        {
+            "name1": "Kangethe, Sharon Wanjiru",
+            "name2": "Ndambiri, Yvonne Nyambura",
+            "similarity": 0.5391162037849426
+        },
+        {
+            "name1": "Kangethe, Sharon Wanjiru",
+            "name2": "Ndungu, Sarah Laura Wangari",
+            "similarity": 0.5441670417785645
+        },
+        {
+            "name1": "Kangethe, Sharon Wanjiru",
+            "name2": "Orony, Charis Ng'wono",
+            "similarity": 0.6738399267196655
+        },
+        {
+            "name1": "Kangethe, Sharon Wanjiru",
+            "name2": "Wachira, Joy Muthoni",
+            "similarity": 0.6328393220901489
+        },
+        {
+            "name1": "Karanu, Neema Muthoni",
+            "name2": "Muiyuro, Natasha Waithira",
+            "similarity": 0.517507791519165
+        },
+        {
+            "name1": "Karanu, Neema Muthoni",
+            "name2": "Muli, Grace Kanini",
+            "similarity": 0.7047537565231323
+        },
+        {
+            "name1": "Karanu, Neema Muthoni",
+            "name2": "Mutaki, Ruby Mbete",
+            "similarity": 0.5076438188552856
+        },
+        {
+            "name1": "Karanu, Neema Muthoni",
+            "name2": "Mutunga, Patience Kamanthe",
+            "similarity": 0.7230097055435181
+        },
+        {
+            "name1": "Karanu, Neema Muthoni",
+            "name2": "Nzioki, Maureen Mutete",
+            "similarity": 0.6094236373901367
+        },
+        {
+            "name1": "Karanu, Neema Muthoni",
+            "name2": "Ogutu, Brenda Mary Anyango",
+            "similarity": 0.5064225196838379
+        },
+        {
+            "name1": "Karanu, Neema Muthoni",
+            "name2": "Orony, Charis Ng'wono",
+            "similarity": 0.5672611594200134
+        },
+        {
+            "name1": "Karanu, Neema Muthoni",
+            "name2": "Wachira, Joy Muthoni",
+            "similarity": 0.6796097755432129
+        },
+        {
+            "name1": "Muiyuro, Natasha Waithira",
+            "name2": "Ndungu, Sarah Laura Wangari",
+            "similarity": 0.5474948883056641
+        },
+        {
+            "name1": "Muiyuro, Natasha Waithira",
+            "name2": "Nzioki, Maureen Mutete",
+            "similarity": 0.5363707542419434
+        },
+        {
+            "name1": "Muiyuro, Natasha Waithira",
+            "name2": "Wachira, Joy Muthoni",
+            "similarity": 0.5951662659645081
+        },
+        {
+            "name1": "Muiyuro, Natasha Waithira",
+            "name2": "Waweru, Monika Ng'endo",
+            "similarity": 0.5300089120864868
+        },
+        {
+            "name1": "Muli, Grace Kanini",
+            "name2": "Ogutu, Brenda Mary Anyango",
+            "similarity": 0.5167543888092041
+        },
+        {
+            "name1": "Muli, Grace Kanini",
+            "name2": "Wachira, Joy Muthoni",
+            "similarity": 0.5142570734024048
+        },
+        {
+            "name1": "Mutaki, Ruby Mbete",
+            "name2": "Wakaba, Rosemary Njeri",
+            "similarity": 0.6180620193481445
+        },
+        {
+            "name1": "Mutunga, Patience Kamanthe",
+            "name2": "Nzioki, Maureen Mutete",
+            "similarity": 0.5129708051681519
+        },
+        {
+            "name1": "Mutunga, Patience Kamanthe",
+            "name2": "Wachira, Joy Muthoni",
+            "similarity": 0.5044776797294617
+        },
+        {
+            "name1": "Naibei, Monicah",
+            "name2": "Waweru, Monika Ng'endo",
+            "similarity": 0.6245347261428833
+        },
+        {
+            "name1": "Ndambiri, Yvonne Nyambura",
+            "name2": "Njuguna, Elizabeth Njoki",
+            "similarity": 0.597571849822998
+        },
+        {
+            "name1": "Ndambiri, Yvonne Nyambura",
+            "name2": "Nyambura, Erica",
+            "similarity": 0.5309687256813049
+        },
+        {
+            "name1": "Ndambiri, Yvonne Nyambura",
+            "name2": "Ogutu, Brenda Mary Anyango",
+            "similarity": 0.5011967420578003
+        },
+        {
+            "name1": "Ndambiri, Yvonne Nyambura",
+            "name2": "Wachira, Joy Muthoni",
+            "similarity": 0.5484739542007446
+        },
+        {
+            "name1": "Ndambiri, Yvonne Nyambura",
+            "name2": "Waweru, Monika Ng'endo",
+            "similarity": 0.5804280638694763
+        },
+        {
+            "name1": "Ndungu, Sarah Laura Wangari",
+            "name2": "Ogutu, Brenda Mary Anyango",
+            "similarity": 0.5104444622993469
+        },
+        {
+            "name1": "Nzioki, Maureen Mutete",
+            "name2": "Ogutu, Brenda Mary Anyango",
+            "similarity": 0.563927173614502
+        },
+        {
+            "name1": "Nzioki, Maureen Mutete",
+            "name2": "Wachira, Joy Muthoni",
+            "similarity": 0.6128330230712891
+        },
+        {
+            "name1": "Nzioki, Maureen Mutete",
+            "name2": "Waweru, Monika Ng'endo",
+            "similarity": 0.5598987936973572
+        },
+        {
+            "name1": "Ogutu, Brenda Mary Anyango",
+            "name2": "Waweru, Monika Ng'endo",
+            "similarity": 0.5725502967834473
+        },
+        {
+            "name1": "Orony, Charis Ng'wono",
+            "name2": "Wachira, Joy Muthoni",
+            "similarity": 0.5611522197723389
+        },
+        {
+            "name1": "Wachira, Joy Muthoni",
+            "name2": "Waweru, Monika Ng'endo",
+            "similarity": 0.5371726155281067
+        }
+    ]
+}
