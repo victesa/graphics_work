@@ -4,6 +4,7 @@ import os
 from functions import generate_email, find_names_with_special_characters
 from similarity import compute_similarity_matrix, find_similar_names, save_results_to_json
 from output_handler import merge_data, shuffle_and_save_outputs
+from google_api import backup_to_drive
 
 # Set up logging
 logging.basicConfig(filename='logs/computations.log', level=logging.INFO, format='%(asctime)s - %(message)s')
@@ -61,6 +62,10 @@ def main():
         shuffle_and_save_outputs(df)
 
         logging.info("All operations completed successfully.")
+
+        # Call the Google Drive backup function
+        backup_to_drive()
+        logging.info("Files have been backed up to Google Drive.")
 
 
 
