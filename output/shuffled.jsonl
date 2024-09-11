@@ -1,64 +1,64 @@
-{'No.': 7, 'Student Number': 146320, 'name': 'Dessalegn, Kalid Geleta', 'DoB': Timestamp('2000-09-07 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'dgeleta@gmail.com'}
-{'No.': 24, 'Student Number': 145460, 'name': 'Korir, Kevin Kimutai', 'DoB': Timestamp('2002-10-26 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kkimutai@gmail.com'}
-{'No.': 6, 'Student Number': 145346, 'name': 'Budembeshe, Moses Kasuni', 'DoB': Timestamp('2002-02-24 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'bkasuni@gmail.com'}
-{'No.': 16, 'Student Number': 145883, 'name': 'Kangethe, Sharon Wanjiru', 'DoB': Timestamp('2000-02-20 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'kwanjiru@gmail.com'}
 {'No.': 38, 'Student Number': 141855, 'name': 'Mutunga, Patience Kamanthe', 'DoB': Timestamp('2000-08-08 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'mkamanthe@gmail.com'}
+{'No.': 57, 'Student Number': 141756, 'name': 'Patel, Jay Hirji', 'DoB': Timestamp('2003-06-25 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'phirji@gmail.com'}
+{'No.': 19, 'Student Number': 146273, 'name': 'Kihara, Shannon Kendi', 'DoB': Timestamp('2002-10-14 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'kkendi@gmail.com'}
+{'No.': 9, 'Student Number': 146356, 'name': 'Ger, David Otieno', 'DoB': Timestamp('2001-01-28 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'gotieno@gmail.com'}
+{'No.': 18, 'Student Number': 146015, 'name': 'Kiarie, Samuel Ndungu', 'DoB': Timestamp('2000-06-09 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kndungu@gmail.com'}
+{'No.': 64, 'Student Number': 137931, 'name': 'Waweru, Trevor Kariuki', 'DoB': Timestamp('2002-04-19 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'wkariuki@gmail.com'}
+{'No.': 62, 'Student Number': 124342, 'name': 'Wanjao, Louis Mbugua', 'DoB': Timestamp('2001-04-20 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'wmbugua@gmail.com'}
+{'No.': 23, 'Student Number': 122992, 'name': 'Kithae, Eric Muriithi', 'DoB': Timestamp('2000-10-02 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kmuriithi@gmail.com'}
+{'No.': 59, 'Student Number': 132747, 'name': 'Tum, Bramwel Kipchirchir', 'DoB': Timestamp('2001-02-06 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'tkipchirchir@gmail.com'}
+{'No.': 10, 'Student Number': 87244, 'name': 'Githinji, Don Moses Thigiti', 'DoB': Timestamp('2000-04-12 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'gthigiti@gmail.com'}
+{'No.': 49, 'Student Number': 139010, 'name': 'Nyambura, Erica', 'DoB': Timestamp('2002-08-26 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nerica@gmail.com'}
+{'No.': 21, 'Student Number': 146602, 'name': 'Kinyua, Victor Mfana', 'DoB': Timestamp('2003-10-28 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kmfana@gmail.com'}
+{'No.': 39, 'Student Number': 145840, 'name': 'Mwanda, George Josiah', 'DoB': Timestamp('2000-02-20 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mjosiah@gmail.com'}
+{'No.': 32, 'Student Number': 145350, 'name': 'Muiyuro, Natasha Waithira', 'DoB': Timestamp('2002-08-19 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'mwaithira@gmail.com'}
+{'No.': 43, 'Student Number': 136559, 'name': 'Ndungu, Sarah Laura Wangari', 'DoB': Timestamp('2003-10-01 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nwangari@gmail.com'}
+{'No.': 45, 'Student Number': 145732, 'name': 'Ngeno, Alvin Kipkurui', 'DoB': Timestamp('2002-12-22 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'nkipkurui@gmail.com'}
+{'No.': 42, 'Student Number': 145353, 'name': 'Ndambiri, Yvonne Nyambura', 'DoB': Timestamp('2002-07-21 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nnyambura@gmail.com'}
+{'No.': 60, 'Student Number': 143621, 'name': 'Wachira, Joy Muthoni', 'DoB': Timestamp('2001-08-07 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'wmuthoni@gmail.com'}
 {'No.': 34, 'Student Number': 138348, 'name': 'Muroki, Mark Gichuhi', 'DoB': Timestamp('2001-12-28 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mgichuhi@gmail.com'}
 {'No.': 2, 'Student Number': 145587, 'name': "Akong'o, Shanelle Hilda Anyango", 'DoB': Timestamp('2001-11-14 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'aanyango@gmail.com'}
-{'No.': 55, 'Student Number': 137668, 'name': "Orony, Charis Ng'wono", 'DoB': Timestamp('2000-01-16 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'ongwono@gmail.com'}
-{'No.': 51, 'Student Number': 138897, 'name': 'Ochanda, Steven Joel Jona', 'DoB': Timestamp('2000-04-02 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'ojona@gmail.com'}
-{'No.': 53, 'Student Number': 138367, 'name': 'Ombeni, Mwenzangu Faraja', 'DoB': Timestamp('2001-12-03 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'ofaraja@gmail.com'}
-{'No.': 40, 'Student Number': 145706, 'name': 'Nabaala, Andrew Kasaine', 'DoB': Timestamp('2001-07-27 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'nkasaine@gmail.com'}
-{'No.': 19, 'Student Number': 146273, 'name': 'Kihara, Shannon Kendi', 'DoB': Timestamp('2002-10-14 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'kkendi@gmail.com'}
-{'No.': 50, 'Student Number': 139471, 'name': 'Nzioki, Maureen Mutete', 'DoB': Timestamp('2002-10-05 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nmutete@gmail.com'}
-{'No.': 29, 'Student Number': 146357, 'name': 'Morekwa, David Nyamongo', 'DoB': Timestamp('2001-02-13 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mnyamongo@gmail.com'}
-{'No.': 41, 'Student Number': 145890, 'name': 'Naibei, Monicah', 'DoB': Timestamp('2002-11-28 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nmonicah@gmail.com'}
-{'No.': 42, 'Student Number': 145353, 'name': 'Ndambiri, Yvonne Nyambura', 'DoB': Timestamp('2002-07-21 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nnyambura@gmail.com'}
-{'No.': 8, 'Student Number': 134693, 'name': 'Epetet, Keith Lokwei', 'DoB': Timestamp('2001-06-08 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'elokwei@gmail.com'}
-{'No.': 27, 'Student Number': 102206, 'name': 'Masaka, Zivai Takadiwa David', 'DoB': Timestamp('2002-07-06 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mdavid@gmail.com'}
-{'No.': 3, 'Student Number': 145401, 'name': "Ang'edu, Jude Ocomil", 'DoB': Timestamp('2003-08-21 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'aocomil@gmail.com'}
-{'No.': 28, 'Student Number': 138493, 'name': 'Mohamed, Ally Mahamud', 'DoB': Timestamp('2003-04-04 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mmahamud@gmail.com'}
-{'No.': 12, 'Student Number': 145644, 'name': 'Hassan, Fardowsa Abduhakim', 'DoB': Timestamp('2000-09-20 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'habduhakim@gmail.com'}
-{'No.': 10, 'Student Number': 87244, 'name': 'Githinji, Don Moses Thigiti', 'DoB': Timestamp('2000-04-12 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'gthigiti@gmail.com'}
-{'No.': 33, 'Student Number': 145889, 'name': 'Muli, Grace Kanini', 'DoB': Timestamp('2000-04-27 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'mkanini@gmail.com'}
-{'No.': 52, 'Student Number': 128099, 'name': 'Ogutu, Brenda Mary Anyango', 'DoB': Timestamp('2002-04-24 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'oanyango@gmail.com'}
-{'No.': 46, 'Student Number': 89724, 'name': 'Ngigi, Michael Macharia', 'DoB': Timestamp('2003-08-11 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'nmacharia@gmail.com'}
-{'No.': 59, 'Student Number': 132747, 'name': 'Tum, Bramwel Kipchirchir', 'DoB': Timestamp('2001-02-06 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'tkipchirchir@gmail.com'}
-{'No.': 20, 'Student Number': 131652, 'name': 'Kimutai, Peter Kibet', 'DoB': Timestamp('2002-09-16 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kkibet@gmail.com'}
-{'No.': 17, 'Student Number': 145702, 'name': 'Karanu, Neema Muthoni', 'DoB': Timestamp('2001-11-24 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'kmuthoni@gmail.com'}
-{'No.': 45, 'Student Number': 145732, 'name': 'Ngeno, Alvin Kipkurui', 'DoB': Timestamp('2002-12-22 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'nkipkurui@gmail.com'}
-{'No.': 23, 'Student Number': 122992, 'name': 'Kithae, Eric Muriithi', 'DoB': Timestamp('2000-10-02 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kmuriithi@gmail.com'}
-{'No.': 22, 'Student Number': 138458, 'name': 'Kirema, Ian Muteithia', 'DoB': Timestamp('2001-03-01 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kmuteithia@gmail.com'}
-{'No.': 30, 'Student Number': 144955, 'name': 'Mugambi, Kelvin Karani', 'DoB': Timestamp('2000-04-10 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mkarani@gmail.com'}
-{'No.': 49, 'Student Number': 139010, 'name': 'Nyambura, Erica', 'DoB': Timestamp('2002-08-26 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nerica@gmail.com'}
-{'No.': 32, 'Student Number': 145350, 'name': 'Muiyuro, Natasha Waithira', 'DoB': Timestamp('2002-08-19 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'mwaithira@gmail.com'}
-{'No.': 9, 'Student Number': 146356, 'name': 'Ger, David Otieno', 'DoB': Timestamp('2001-01-28 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'gotieno@gmail.com'}
-{'No.': 14, 'Student Number': 137766, 'name': 'Johnson, Myles Adebayo', 'DoB': Timestamp('2001-04-27 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'jadebayo@gmail.com'}
-{'No.': 21, 'Student Number': 146602, 'name': 'Kinyua, Victor Mfana', 'DoB': Timestamp('2003-10-28 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kmfana@gmail.com'}
-{'No.': 11, 'Student Number': 145982, 'name': 'Haji, Ashir Ali', 'DoB': Timestamp('2003-06-13 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'hali@gmail.com'}
-{'No.': 15, 'Student Number': 141910, 'name': 'Kamau, Ann Mumbi', 'DoB': Timestamp('2001-11-28 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'kmumbi@gmail.com'}
-{'No.': 60, 'Student Number': 143621, 'name': 'Wachira, Joy Muthoni', 'DoB': Timestamp('2001-08-07 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'wmuthoni@gmail.com'}
-{'No.': 35, 'Student Number': 145434, 'name': 'Mutaki, Ruby Mbete', 'DoB': Timestamp('2002-06-17 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'mmbete@gmail.com'}
-{'No.': 48, 'Student Number': 146197, 'name': 'Nugi, Andrew Kiarie', 'DoB': Timestamp('2003-04-15 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'nkiarie@gmail.com'}
-{'No.': 58, 'Student Number': 145837, 'name': 'Tonui, Martin', 'DoB': Timestamp('2002-06-02 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'tmartin@gmail.com'}
-{'No.': 31, 'Student Number': 122279, 'name': 'Muhia, Victor Mwaura', 'DoB': Timestamp('2000-09-26 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mmwaura@gmail.com'}
-{'No.': 43, 'Student Number': 136559, 'name': 'Ndungu, Sarah Laura Wangari', 'DoB': Timestamp('2003-10-01 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nwangari@gmail.com'}
-{'No.': 26, 'Student Number': 141706, 'name': 'Maritim, Kelvin Kipngeno', 'DoB': Timestamp('2000-10-23 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mkipngeno@gmail.com'}
-{'No.': 56, 'Student Number': 142005, 'name': 'Owens, Nicole Owens', 'DoB': Timestamp('2000-09-14 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'oowens@gmail.com'}
-{'No.': 44, 'Student Number': 145547, 'name': "Ng'ang'a, Ian Mutuge", 'DoB': Timestamp('2001-01-23 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'nmutuge@gmail.com'}
-{'No.': 39, 'Student Number': 145840, 'name': 'Mwanda, George Josiah', 'DoB': Timestamp('2000-02-20 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mjosiah@gmail.com'}
-{'No.': 64, 'Student Number': 137931, 'name': 'Waweru, Trevor Kariuki', 'DoB': Timestamp('2002-04-19 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'wkariuki@gmail.com'}
-{'No.': 18, 'Student Number': 146015, 'name': 'Kiarie, Samuel Ndungu', 'DoB': Timestamp('2000-06-09 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kndungu@gmail.com'}
 {'No.': 61, 'Student Number': 146360, 'name': 'Wakaba, Rosemary Njeri', 'DoB': Timestamp('2000-01-11 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'wnjeri@gmail.com'}
-{'No.': 36, 'Student Number': 146098, 'name': 'Mutua, Franklin Karanja', 'DoB': Timestamp('2003-10-21 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mkaranja@gmail.com'}
-{'No.': 47, 'Student Number': 137222, 'name': 'Njuguna, Elizabeth Njoki', 'DoB': Timestamp('2000-07-07 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nnjoki@gmail.com'}
-{'No.': 57, 'Student Number': 141756, 'name': 'Patel, Jay Hirji', 'DoB': Timestamp('2003-06-25 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'phirji@gmail.com'}
-{'No.': 1, 'Student Number': 144234, 'name': 'Abwoga, Adrian Jared Paul', 'DoB': Timestamp('2000-06-17 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'apaul@gmail.com'}
+{'No.': 51, 'Student Number': 138897, 'name': 'Ochanda, Steven Joel Jona', 'DoB': Timestamp('2000-04-02 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'ojona@gmail.com'}
+{'No.': 31, 'Student Number': 122279, 'name': 'Muhia, Victor Mwaura', 'DoB': Timestamp('2000-09-26 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mmwaura@gmail.com'}
+{'No.': 53, 'Student Number': 138367, 'name': 'Ombeni, Mwenzangu Faraja', 'DoB': Timestamp('2001-12-03 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'ofaraja@gmail.com'}
+{'No.': 16, 'Student Number': 145883, 'name': 'Kangethe, Sharon Wanjiru', 'DoB': Timestamp('2000-02-20 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'kwanjiru@gmail.com'}
+{'No.': 29, 'Student Number': 146357, 'name': 'Morekwa, David Nyamongo', 'DoB': Timestamp('2001-02-13 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mnyamongo@gmail.com'}
+{'No.': 28, 'Student Number': 138493, 'name': 'Mohamed, Ally Mahamud', 'DoB': Timestamp('2003-04-04 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mmahamud@gmail.com'}
+{'No.': 3, 'Student Number': 145401, 'name': "Ang'edu, Jude Ocomil", 'DoB': Timestamp('2003-08-21 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'aocomil@gmail.com'}
 {'No.': 63, 'Student Number': 145356, 'name': "Waweru, Monika Ng'endo", 'DoB': Timestamp('2002-05-20 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'wngendo@gmail.com'}
+{'No.': 17, 'Student Number': 145702, 'name': 'Karanu, Neema Muthoni', 'DoB': Timestamp('2001-11-24 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'kmuthoni@gmail.com'}
 {'No.': 13, 'Student Number': 138551, 'name': 'Ismail, Ruweida Ali', 'DoB': Timestamp('2000-04-08 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'iali@gmail.com'}
+{'No.': 58, 'Student Number': 145837, 'name': 'Tonui, Martin', 'DoB': Timestamp('2002-06-02 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'tmartin@gmail.com'}
+{'No.': 22, 'Student Number': 138458, 'name': 'Kirema, Ian Muteithia', 'DoB': Timestamp('2001-03-01 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kmuteithia@gmail.com'}
+{'No.': 55, 'Student Number': 137668, 'name': "Orony, Charis Ng'wono", 'DoB': Timestamp('2000-01-16 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'ongwono@gmail.com'}
+{'No.': 48, 'Student Number': 146197, 'name': 'Nugi, Andrew Kiarie', 'DoB': Timestamp('2003-04-15 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'nkiarie@gmail.com'}
+{'No.': 12, 'Student Number': 145644, 'name': 'Hassan, Fardowsa Abduhakim', 'DoB': Timestamp('2000-09-20 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'habduhakim@gmail.com'}
+{'No.': 26, 'Student Number': 141706, 'name': 'Maritim, Kelvin Kipngeno', 'DoB': Timestamp('2000-10-23 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mkipngeno@gmail.com'}
+{'No.': 7, 'Student Number': 146320, 'name': 'Dessalegn, Kalid Geleta', 'DoB': Timestamp('2000-09-07 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'dgeleta@gmail.com'}
+{'No.': 8, 'Student Number': 134693, 'name': 'Epetet, Keith Lokwei', 'DoB': Timestamp('2001-06-08 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'elokwei@gmail.com'}
+{'No.': 56, 'Student Number': 142005, 'name': 'Owens, Nicole Owens', 'DoB': Timestamp('2000-09-14 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'oowens@gmail.com'}
 {'No.': 5, 'Student Number': 137357, 'name': 'Atenya, Anthony Magunga Ikobwa', 'DoB': Timestamp('2002-03-17 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'aikobwa@gmail.com'}
-{'No.': 37, 'Student Number': 134362, 'name': 'Mutunga, Eric Kiamba', 'DoB': Timestamp('2003-07-11 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mkiamba@gmail.com'}
-{'No.': 25, 'Student Number': 145493, 'name': 'Kwoba, Alex Wafula', 'DoB': Timestamp('2002-04-26 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kwafula@gmail.com'}
-{'No.': 54, 'Student Number': 124965, 'name': 'Ombongi, Caleb Magare', 'DoB': Timestamp('2002-09-27 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'omagare@gmail.com'}
-{'No.': 62, 'Student Number': 124342, 'name': 'Wanjao, Louis Mbugua', 'DoB': Timestamp('2001-04-20 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'wmbugua@gmail.com'}
+{'No.': 41, 'Student Number': 145890, 'name': 'Naibei, Monicah', 'DoB': Timestamp('2002-11-28 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nmonicah@gmail.com'}
 {'No.': 4, 'Student Number': 140801, 'name': 'Arunga, Kyla Neema', 'DoB': Timestamp('2003-10-26 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'aneema@gmail.com'}
+{'No.': 27, 'Student Number': 102206, 'name': 'Masaka, Zivai Takadiwa David', 'DoB': Timestamp('2002-07-06 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mdavid@gmail.com'}
+{'No.': 6, 'Student Number': 145346, 'name': 'Budembeshe, Moses Kasuni', 'DoB': Timestamp('2002-02-24 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'bkasuni@gmail.com'}
+{'No.': 25, 'Student Number': 145493, 'name': 'Kwoba, Alex Wafula', 'DoB': Timestamp('2002-04-26 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kwafula@gmail.com'}
+{'No.': 33, 'Student Number': 145889, 'name': 'Muli, Grace Kanini', 'DoB': Timestamp('2000-04-27 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'mkanini@gmail.com'}
+{'No.': 20, 'Student Number': 131652, 'name': 'Kimutai, Peter Kibet', 'DoB': Timestamp('2002-09-16 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kkibet@gmail.com'}
+{'No.': 50, 'Student Number': 139471, 'name': 'Nzioki, Maureen Mutete', 'DoB': Timestamp('2002-10-05 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nmutete@gmail.com'}
+{'No.': 37, 'Student Number': 134362, 'name': 'Mutunga, Eric Kiamba', 'DoB': Timestamp('2003-07-11 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mkiamba@gmail.com'}
+{'No.': 54, 'Student Number': 124965, 'name': 'Ombongi, Caleb Magare', 'DoB': Timestamp('2002-09-27 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'omagare@gmail.com'}
+{'No.': 44, 'Student Number': 145547, 'name': "Ng'ang'a, Ian Mutuge", 'DoB': Timestamp('2001-01-23 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'nmutuge@gmail.com'}
+{'No.': 15, 'Student Number': 141910, 'name': 'Kamau, Ann Mumbi', 'DoB': Timestamp('2001-11-28 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'kmumbi@gmail.com'}
+{'No.': 46, 'Student Number': 89724, 'name': 'Ngigi, Michael Macharia', 'DoB': Timestamp('2003-08-11 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'nmacharia@gmail.com'}
+{'No.': 14, 'Student Number': 137766, 'name': 'Johnson, Myles Adebayo', 'DoB': Timestamp('2001-04-27 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'jadebayo@gmail.com'}
+{'No.': 40, 'Student Number': 145706, 'name': 'Nabaala, Andrew Kasaine', 'DoB': Timestamp('2001-07-27 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'nkasaine@gmail.com'}
+{'No.': 30, 'Student Number': 144955, 'name': 'Mugambi, Kelvin Karani', 'DoB': Timestamp('2000-04-10 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mkarani@gmail.com'}
+{'No.': 35, 'Student Number': 145434, 'name': 'Mutaki, Ruby Mbete', 'DoB': Timestamp('2002-06-17 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'mmbete@gmail.com'}
+{'No.': 47, 'Student Number': 137222, 'name': 'Njuguna, Elizabeth Njoki', 'DoB': Timestamp('2000-07-07 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'nnjoki@gmail.com'}
+{'No.': 52, 'Student Number': 128099, 'name': 'Ogutu, Brenda Mary Anyango', 'DoB': Timestamp('2002-04-24 00:00:00'), 'Email Address': nan, 'gender': 'female', 'email': 'oanyango@gmail.com'}
+{'No.': 24, 'Student Number': 145460, 'name': 'Korir, Kevin Kimutai', 'DoB': Timestamp('2002-10-26 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'kkimutai@gmail.com'}
+{'No.': 1, 'Student Number': 144234, 'name': 'Abwoga, Adrian Jared Paul', 'DoB': Timestamp('2000-06-17 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'apaul@gmail.com'}
+{'No.': 11, 'Student Number': 145982, 'name': 'Haji, Ashir Ali', 'DoB': Timestamp('2003-06-13 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'hali@gmail.com'}
+{'No.': 36, 'Student Number': 146098, 'name': 'Mutua, Franklin Karanja', 'DoB': Timestamp('2003-10-21 00:00:00'), 'Email Address': nan, 'gender': 'male', 'email': 'mkaranja@gmail.com'}
